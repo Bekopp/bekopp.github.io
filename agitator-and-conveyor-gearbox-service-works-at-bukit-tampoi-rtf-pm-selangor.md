@@ -14,8 +14,7 @@
 |8|Inspect shaft, coupling, sleeve, pins and worm gear mesh and to carry out repair if necessary|1|SET|||
 ||**Other**|||||
 |9|Testing and commissioning||||Included|
-
-||**TOTAL**|||
+||**TOTAL**|||||
 
 **United Sourcing Engineering Sdn. Bhd.**  
 32, Jln. Seri Rejang 4,  Rampai Business Park South,  
@@ -31,16 +30,16 @@ Fax: 03-41314300
 
 |![Polymer agitator gearbox](/images/PN13196-3/item_2-4.jpeg)|
 |:---:|
-|:point_up: Polymer agitator gearbox|
+|&#9757; Polymer agitator gearbox|
 |![Polymer agitator gearbox](/images/PN13196-3/item_5.jpeg)|
-|:point_up: Polymer agitator gearbox; spindle|
+|&#9757; Polymer agitator gearbox; spindle|
 |![Polymer agitator gearbox](/images/PN13196-3/100.jpeg)|
-|:point_up: Polymer agitator gearbox; bearing shaft|
+|&#9757; Polymer agitator gearbox; bearing shaft|
 |![Polymer agitator gearbox](/images/PN13196-3/110.jpeg)|
-|:point_up: Polymer agitator gearbox; rotating shaft|
+|&#9757; Polymer agitator gearbox; rotating shaft|
 |![Polymer agitator gearbox](/images/PN13196-3/040.jpeg)|
-|:point_up: Polymer agitator gearbox; tag|
+|&#9757; Polymer agitator gearbox; tag|
 |![Conveyor gearbox](/images/PN13196-3/item_6-9.jpeg)|
-|:point_up: Conveyor gearbox|
+|&#9757; Conveyor gearbox|
 |![Conveyor gearbox](/images/PN13196-3/070.jpeg)|
-|:point_up: Conveyor gearbox; tag|
+|&#9757; Conveyor gearbox; tag|
