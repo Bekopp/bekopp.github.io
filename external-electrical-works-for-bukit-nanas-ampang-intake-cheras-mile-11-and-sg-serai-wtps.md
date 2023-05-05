@@ -7,7 +7,7 @@
 
 ## Task list
 
-1. Compiling tender requirements: 
+1. Requirements: 
     1. Qualifications of Permit / Certificate / License &#128308;
     1. Declaration of Non-Bankruptcy / Non-Liquidation &#128308;
     1. Integrity Pact (Declaration of Anti-Bribery & Non-Collusion) &#128308;
