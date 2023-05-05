@@ -38,12 +38,12 @@
     12. [Schedule C1](/PN0000014171/schedule-of-particular/C1.pdf) - Cheras Mile 11 WTP - Feeder Pillar &#128308; 
     13. [Schedule C2](/PN0000014171/schedule-of-particular/C2.pdf) - Cheras Mile 11 WTP - Cable &#128308; 
     14. [Schedule C3](/PN0000014171/schedule-of-particular/C3.pdf) - Cheras Mile 11 WTP - Earthing System &#128308;
-    15. [Schedule C4](/PN0000014171/schedule-of-particular/C4.pdf) - Cheras Mile 11 WTP - Street Lightin   g / Perimeter Lighting &#128308;
+    15. [Schedule C4](/PN0000014171/schedule-of-particular/C4.pdf) - Cheras Mile 11 WTP - Street Lighting / Perimeter Lighting &#128308;
     16. [Schedule C5](/PN0000014171/schedule-of-particular/C5.pdf) - Cheras Mile 11 WTP - Others &#128308;
     17. [Schedule D1](/PN0000014171/schedule-of-particular/D1.pdf) - Sg. Serai WTP - Feeder Pillar &#128308;
     18. [Schedule D2](/PN0000014171/schedule-of-particular/D2.pdf) - Sg. Serai WTP - Cable &#128308;
     19. [Schedule D3](/PN0000014171/schedule-of-particular/D3.pdf) - Sg. Serai WTP - Earthing System &#128308;
-    20. [Schedule D4](/PN0000014171/schedule-of-particular/D4.pdf) - Sg. Serai WTP - Street Lighting / P   erimeter Lighting &#128308;
+    20. [Schedule D4](/PN0000014171/schedule-of-particular/D4.pdf) - Sg. Serai WTP - Street Lighting / Perimeter Lighting &#128308;
     21. [Schedule D5](/PN0000014171/schedule-of-particular/D5.pdf) - Sg. Serai WTP - Others &#128308;
     22. [Schedule D6](/PN0000014171/schedule-of-particular/D6.pdf) - Sg. Serai WTP - Lighting Luminaire &#128308;
     23. [Schedule D7](/PN0000014171/schedule-of-particular/D7.pdf) - Sg. Serai WTP - Lightning Protection System &#128308;
