@@ -1,9 +1,5 @@
 # STREET LIGHTINGS AT SG LANGAT DAM
 
-:green_circle: Done  
-:yellow_circle: Doing  
-:red_circle: To do  
-
 1. Tender General Information
     1. Tender General Information & Reference
     1. Importance Notes
