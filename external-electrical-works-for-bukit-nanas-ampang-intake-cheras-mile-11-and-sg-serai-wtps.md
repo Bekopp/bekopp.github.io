@@ -55,7 +55,7 @@
 1. Declaration of Technical Proposal &#128308;
 1. As-Built Drawing Submission Guidelines &#9898;
 1. Health, Safety & Environmental &#9898;
-1. Schedule of Daywork Rates &#128308;
+1. [Schedule of Daywork Rates](/PN0000014172/SUR.pdf) &#128308;
 1. Financial
     1. Contractor's Particular &#128308;
     1. Last 2 Years Audited Financial Statements  &#128308;
